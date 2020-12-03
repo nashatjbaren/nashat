@@ -1,2 +1,0 @@
-# nashat
-nashat_jbaren
